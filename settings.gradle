@@ -1,0 +1,3 @@
+rootProject.name = 'spring-boot-starter-boilerplate'
+include 'boilerplate-autoconfigure'
+include 'boilerplate-starter'

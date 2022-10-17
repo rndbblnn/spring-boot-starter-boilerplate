@@ -1,0 +1,6 @@
+dependencies {
+    api project(':boilerplate-autoconfigure')
+
+    implementation 'org.springframework.boot:spring-boot-starter'
+}
+
