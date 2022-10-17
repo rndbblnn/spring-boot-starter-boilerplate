@@ -1,2 +1,1 @@
-include 'event-starter'
-include 'application'
+rootProject.name = 'stonks-commons-starter'
